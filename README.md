@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning completing my Bsc in Cybersecurtiy. 
 - 🤠 I'm hoping to get into penetration testing and learn more about ethical hacking.
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2639407" style='border:none;'></iframe>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Fatimaqais.png" alt="Your Image Badge" />
